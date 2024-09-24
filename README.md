@@ -5,7 +5,7 @@ Open your favorite Terminal and run these commands.
 
 First open the directry where you want to clone the project
 ```sh
-cd "path/to/your/dierectry"
+cd "path/to/your/directry"
 ```
 1. Clone the Repository and go to the Repository
 
